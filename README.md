@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=OPA,+Meu+nome+é+Pablo+Langer;Tenho+25+anos+de+idade;Sou+um+Desenvolvedor+Front-End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div>
-  <img  height="200em" src="https://github-readme-stats.vercel.app/api?username=Lirovsky&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lirovsky&layout=compact&langs_count=16&theme=neon"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Lirovsky&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lirovsky&layout=compact&langs_count=16&theme=neon"/>
 </div>
 <br>
 
