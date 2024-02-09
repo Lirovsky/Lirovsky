@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=OPA,+Meu+nome+é+Pablo+Langer;Tenho+25+anos+de+idade;Sou+um+Desenvolvedor+Front-End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-<!--
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Lirovsky&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lirovsky&layout=compact&langs_count=16&theme=neon"/>
-</div>
--->
 <br>
 
 <div  align="center"> 
@@ -18,10 +12,10 @@
 <h2 align="center" >🔧 Linguagens-Frameworks-Ferramentas 🔨</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,sass,vscode,github,git" />
 </div>
 
-  <h2 align="center" margin-top="200px">✨ Redes Sociais ✨</h2>
+  <h2 align="center" margin-top="200px">✨ Social ✨</h2>
   <div align="center"> 
     <a href="https://www.linkedin.com/in/pablo-langer-6300802a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
     <a href = "mailto:pablolangerprofissional@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
