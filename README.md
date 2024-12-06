@@ -24,8 +24,8 @@
   <div>
     <div >
       <h2>:wrench: Linguagens-Frameworks-Ferramentas:hammer:</h2>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
-      <img src="https://skillicons.dev/icons?i=tailwind,sass,cypress,git,github" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
+      <img src="https://skillicons.dev/icons?i=sass,cypress,git,github,figma" />
     </div>
     <br/><br/>
     <h2 margin-top="200px">✨ Social ✨</h2>
