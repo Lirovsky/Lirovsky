@@ -10,16 +10,15 @@
   <li>:bicyclist: No tempo livre eu gosto de correr e andar de bicicleta. Pra mim funciona como uma terapia hehe</li>
 </ul>
 
-
 <!--
- 
--->
-  <br/>
-   <div align="center"> 
+    <div align="center"> 
     <div style="display: inline_block"><br>
       <img align="right" height="350" alt="coding-time" src="programador.gif">
     </div>
   <div>
+-->
+  <br/>
+
   <div>
     <div >
       <h2>:computer:Front-end</h2>
