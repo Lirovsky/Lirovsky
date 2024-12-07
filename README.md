@@ -2,30 +2,38 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Opaa!!+Meu+nome+é+Pablo.;Tenho+26+anos.;Sou+um+Dev+Front-End+Junior.;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
-<div>
-  <h2 align ="">:eyes: Sobre</h2>
-  <ul>
-    <li>:heart: Eu sempre gostei de tecnologia, lembro que na adolescência gostava mais de computadores do que de pessoas. Conforme o tempo passou acabei me afastando disso. Estou aprendendo mais sobre Front End a cerca de 1 ano e estou ansioso para conseguir meu primeiro emprego na área.</li>
-    <li>:ok_hand: Atualmente estou melhorando minhas habilidades nas áreas que já conheço, em breve irei aprender NextJS e depois me aprofundar em backend.</li>
-    <li>:rocket: Sou viciado em aprender coisas novas, estou constantemente estudando algo, eu nunca paro, um dia sem estudo é um dia perdido.</li>
-    <li>:bicyclist: No tempo livre eu gosto de correr e andar de bicicleta. Pra mim funciona como uma terapia hehe</li>
-  </ul>
-</div>
+<h2>:eyes: Sobre</h2>
+<ul>
+  <li>:heart: Eu sempre gostei de tecnologia, lembro que na adolescência gostava mais de computadores do que de pessoas. Conforme o tempo passou acabei me afastando disso. Estou aprendendo mais sobre Front End a cerca de 1 ano e estou ansioso para conseguir meu primeiro emprego na área.</li>
+  <li>:ok_hand: Atualmente estou melhorando minhas habilidades nas áreas que já conheço, em breve irei aprender NextJS e depois me aprofundar em backend.</li>
+  <li>:rocket: Sou viciado em aprender coisas novas, estou constantemente estudando algo, eu nunca paro, um dia sem estudo é um dia perdido.</li>
+  <li>:bicyclist: No tempo livre eu gosto de correr e andar de bicicleta. Pra mim funciona como uma terapia hehe</li>
+</ul>
+
 
 <!--
-  <div align="center"> 
-    <div style="display: inline_block"><br>
-      <img align="left" height="350" alt="coding-time" src="programador.gif">
-    </div>
-  <div>
+ 
 -->
   <br/>
-  
+   <div align="center"> 
+    <div style="display: inline_block"><br>
+      <img align="right" height="350" alt="coding-time" src="programador.gif">
+    </div>
+  <div>
   <div>
     <div >
-      <h2>:wrench: Linguagens-Frameworks-Ferramentas:hammer:</h2>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
-      <img src="https://skillicons.dev/icons?i=sass,cypress,git,github,figma" />
+      <h2>:computer:Front-end</h2>
+      <img src="https://skillicons.dev/icons?i=html" />
+      <img src="https://skillicons.dev/icons?i=css" />
+      <img src="https://skillicons.dev/icons?i=javascript" />
+      <img src="https://skillicons.dev/icons?i=react" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" />
+      <img src="https://skillicons.dev/icons?i=tailwind" />
+      <img src="https://skillicons.dev/icons?i=sass" />
+       <img src="https://skillicons.dev/icons?i=cypress" />
+       <img src="https://skillicons.dev/icons?i=git" />
+       <img src="https://skillicons.dev/icons?i=github" />
+       <img src="https://skillicons.dev/icons?i=figma" />
     </div>
     <br/><br/>
     <h2 margin-top="200px">✨ Social ✨</h2>
