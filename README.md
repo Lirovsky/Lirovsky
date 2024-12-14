@@ -22,7 +22,6 @@
   <div>
     <div >
       <h2>:computer:Front-end</h2>
-      <!--
       <img src="https://skillicons.dev/icons?i=html" />
       <img src="https://skillicons.dev/icons?i=css" />
       <img src="https://skillicons.dev/icons?i=javascript" />
@@ -33,8 +32,8 @@
        <img src="https://skillicons.dev/icons?i=cypress" />
        <img src="https://skillicons.dev/icons?i=git" />
        <img src="https://skillicons.dev/icons?i=github" />
-       <img src="https://skillicons.dev/icons?i=figma" />]
-      -->
+       <img src="https://skillicons.dev/icons?i=figma" />
+       <!--
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -46,11 +45,12 @@
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+        -->
     </div>
     <br/><br/>
     <h2 margin-top="200px">✨ Social ✨</h2>
     <div> 
-      <a href="https://www.linkedin.com/in/pablo-langer-6300802a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+      <a href="https://www.linkedin.com/in/pablo-langer-6300802a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 50px" target="_blank"></a> 
       <a href = "mailto:pablolangerprofissional@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/lirovsky/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Currículo-006400?style=for-the-badge&logo=bookstack&logoColor=white"</a>
