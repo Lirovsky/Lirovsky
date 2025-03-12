@@ -51,8 +51,7 @@
     <h2 margin-top="200px">✨ Social ✨</h2>
     <div> 
       <a href="https://www.linkedin.com/in/pablo-langer-6300802a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 50px" target="_blank"></a> 
-      <a href = "mailto:pablolangerprofissional@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.instagram.com/lirovsky/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+      <a href = "mailto:pablolangerpessoal@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Currículo-006400?style=for-the-badge&logo=bookstack&logoColor=white"</a>
   </div>
 </div>
