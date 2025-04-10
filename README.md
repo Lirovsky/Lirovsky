@@ -1,6 +1,10 @@
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00FFFF&height=120&section=header"/> 
+-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&text=LiroDev&section=header&reversal=false&textBg=false&fontColor=fff&fontSize=90"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Opaa!!+Meu+nome+é+Pablo.;Tenho+26+anos.;Sou+um+Dev+Front-End+Junior.;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=4000&color=fff&size=35&center=true&vCenter=true&width=1000&lines=Opaa!!+Meu+nome+é+Pablo.;Tenho+26+anos.;Sou+um+Dev+Front-End+Junior.;Seja+Bem+Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <h2>:eyes: Sobre</h2>
 <ul>
@@ -52,16 +56,17 @@
     <div> 
       <a href="https://www.linkedin.com/in/pablo-langer-6300802a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 50px" target="_blank"></a> 
       <a href = "mailto:pablolangerpessoal@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Currículo-006400?style=for-the-badge&logo=bookstack&logoColor=white"</a>
+      <a href="https://drive.google.com/file/d/10C8bYC4vNn83R-vDSkqxt2JPi-h0ECfQ/view" target="_blank"><img src="https://img.shields.io/badge/-Currículo-006400?style=for-the-badge&logo=bookstack&logoColor=white"</a>
   </div>
 </div>
 
 <br/><br/><br/>
 
+<img src="https://raw.githubusercontent.com/Lirovsky/Lirovsky/output/snake.svg" alt="Snake animation" />
+
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lirovsky&bg_color=0d1117&color=008080&&line=00FFFF&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-  
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>  
-
+-->
