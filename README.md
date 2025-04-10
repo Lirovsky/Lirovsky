@@ -25,7 +25,7 @@
 
   <div>
     <div >
-      <h2>:computer:Front-end</h2>
+      <h2>:computer: Front-end</h2>
       <img src="https://skillicons.dev/icons?i=html" />
       <img src="https://skillicons.dev/icons?i=css" />
       <img src="https://skillicons.dev/icons?i=javascript" />
@@ -52,7 +52,7 @@
         -->
     </div>
     <br/><br/>
-    <h2 margin-top="200px">✨ Social ✨</h2>
+    <h2 margin-top="200px">✨ Social</h2>
     <div> 
       <a href="https://www.linkedin.com/in/pablo-langer-6300802a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 50px" target="_blank"></a> 
       <a href = "mailto:pablolangerpessoal@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -60,8 +60,9 @@
   </div>
 </div>
 
-<br/><br/><br/>
 
+<br/><br/>
+<h2 margin-top="200px">🔥 Atividade</h2>
 <img src="https://raw.githubusercontent.com/Lirovsky/Lirovsky/output/snake.svg" alt="Snake animation" />
 
 <!--
