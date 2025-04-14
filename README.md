@@ -63,8 +63,10 @@
 
 <br/><br/>
 <h2 margin-top="200px">🔥 Atividade</h2>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+<!--
 <img src="https://raw.githubusercontent.com/Lirovsky/Lirovsky/output/snake.svg" alt="Snake animation" />
-
+-->
 <!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lirovsky&bg_color=0d1117&color=008080&&line=00FFFF&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
