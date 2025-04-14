@@ -63,7 +63,7 @@
 
 <br/><br/>
 <h2 margin-top="200px">🔥 Atividade</h2>
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/lirovsky/lirovsky/blob/output/github-contribution-grid-snake2.svg)
 <!--
 <img src="https://raw.githubusercontent.com/Lirovsky/Lirovsky/output/snake.svg" alt="Snake animation" />
 -->
